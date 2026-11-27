@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "ITD-DDA_ASG1.slnx"
+    "dotnet.defaultSolution": "ITD_DDA_ASG1.slnx"
 }
